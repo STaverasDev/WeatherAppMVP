@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hour_text_size">20sp</dimen>
+    <dimen name="temp_text_size">35sp</dimen>
+    <dimen name="field_text_size">10sp</dimen>
+    <dimen name="hourly_item_dimen">125dp</dimen>
+    <dimen name="hourly_item_margin">5dp</dimen>
+    <dimen name="hourly_item_temp_textsize">75sp</dimen>
+    <dimen name="daily_temp_textsize">100sp</dimen>
+    <dimen name="daily_low_high_textsize">45sp</dimen>
+</resources>
